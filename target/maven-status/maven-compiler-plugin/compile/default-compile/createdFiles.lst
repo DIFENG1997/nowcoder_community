@@ -1,0 +1,4 @@
+com\nowcoder\community\service\AlphaService.class
+com\nowcoder\community\SpingApplication.class
+com\nowcoder\community\dao\UserMapper.class
+com\nowcoder\community\entity\User.class
